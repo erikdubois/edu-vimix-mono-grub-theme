@@ -46,7 +46,7 @@ terminal-border: "0"
   width = 36%
   align = "center"
   id = "__timeout__"
-  text = "Booting in %d seconds"
+  text = "Selected OS will start in %d seconds"
   color = "#cccccc"
   font = "Dejavu Sans Bold 18"
 }

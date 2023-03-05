@@ -34,6 +34,9 @@
 echo "Checking for newer files online first"
 git pull
 
+rm -rf usr/share/grub/themes/vimix/*
+cp -r boot/grub/themes/vimix/* usr/share/grub/themes/vimix
+
 # Below command will backup everything inside the project folder
 git add --all .
 

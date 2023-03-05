@@ -17,7 +17,7 @@ terminal-border: "0"
 + boot_menu {
   left = 30%
   top = 30%
-  width = 40%
+  width = 55%
   height = 40%
   item_font = "Dejavu Sans Bold 16"
   item_color = "#cccccc"

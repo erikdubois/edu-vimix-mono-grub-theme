@@ -9,6 +9,13 @@ https://github.com/vinceliuice/grub2-themes
 Learn, have fun and enjoy.
 
 
+code to create fonts
+
+
+sudo grub-mkfont -s 20 -o /home/erik/Desktop/dejavu_sans_bold_20.pf2 /usr/share/fonts/TTF/DejaVuSans-Bold.ttf
+
+
+
 # Websites
 
 Information : https://arcolinux.info

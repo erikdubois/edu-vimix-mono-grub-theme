@@ -1,4 +1,4 @@
-# Vimix mono theme
+# Edu Vimix mono theme
 
 experimenting with the look
 
